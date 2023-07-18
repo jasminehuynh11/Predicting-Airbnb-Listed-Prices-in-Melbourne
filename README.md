@@ -40,5 +40,5 @@ from sklearn.svm import SVR
 
 # Notebook Structure
 - **Main Notebook** - This is where the codes for the main part of the analysis and predictive modeling are
-- ** Data Preparation** - This notebook is where we cleaned all the files for the data
+- **Data Preparation** - This notebook is where we cleaned all the files for the data
 - **Forecasting Model & Results** -  This is where we deep-dive into the analysis of all the variables and commenting on the results 
