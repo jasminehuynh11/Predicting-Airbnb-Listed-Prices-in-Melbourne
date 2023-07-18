@@ -8,7 +8,7 @@ The goal is to develop accurate and reliable forecasting models that can estimat
 
 In the real world, accurate price forecasting for Airbnb listings can have significant implications for both hosts and guests. For hosts, it helps them set competitive prices, optimize their revenue, and attract potential guests. For guests, it helps them evaluate affordability, compare listings, and make informed decisions for optimal accommodation choices that provide the best value for their money. 
 
-Additionally, the techniques and methodologies used in this assignment can be extended to other similar domains where price forecasting plays a crucial role.
+Additionally, the techniques and methodologies used in this project can be extended to other similar domains where price forecasting plays a crucial role.
 
 
 # Libraries and Packages
