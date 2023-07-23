@@ -1,6 +1,14 @@
 # Predicting Airbnb Listed Prices in Melbourne 🏘️
 ---
 
+#### ℹ️  &nbsp; Team Members 
+
+| Name                    | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> |
+| ------------------------|-----------------------------------------------------------------------------|
+|  Xinhui Jing            | [Xinhui's](https://www.linkedin.com/in/xinhui-jing-323386216/)              |
+|  Jasmine Huynh          | [Jasmine's](https://www.linkedin.com/in/jasminehuynhinfo/)                  |
+|  Darren Lin             | [Darren's](https://www.linkedin.com/in/darrenlin1030/)                      |
+
 # Project Summary
 In this project, we try to predict the prices of Airbnb listings in Melbourne based on the characteristics of the properties. 
 
